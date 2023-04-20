@@ -461,7 +461,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f7f8f9;
+  background-color:rgb(12,178,245);
 }
 
 .section-title {
@@ -475,7 +475,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 0;
   font-family: "Poppins", sans-serif;
-  color: #627680;
+  color: #ffffff;
 }
 
 .section-title p {
@@ -491,7 +491,7 @@ section {
 }
 
 .about .container {
-  background-color: #f7f8f9;
+  background-color: rgb(242,158,47);
   padding: 60px 50px;
 }
 
