@@ -11,11 +11,11 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #1b1b1b;
 }
 
 a {
-  color: #009cea;
+  color: #eaa000;
   text-decoration: none;
 }
 
@@ -30,7 +30,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1{
+  color:#364146
 }
 
 /*--------------------------------------------------------------
@@ -461,7 +464,7 @@ section {
 }
 
 .section-bg {
-  background-color:rgb(116,185,59);
+  background-color:rgb(146,220,249);
 }
 
 .section-title {
@@ -491,7 +494,7 @@ section {
 }
 
 .about .container {
-  background-color: rgb(242,158,47);
+  background-color: #efa31d;
   padding: 60px 50px;
 }
 
@@ -1321,6 +1324,10 @@ section {
   border: 2px solid #e9ecee;
   border-radius: 4px;
 }
+  p {
+    text-align: center; text-align: justify;
+    
+  }
 
 .contact .info i {
   font-size: 20px;
