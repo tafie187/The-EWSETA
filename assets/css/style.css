@@ -948,6 +948,10 @@ section {
     transform: rotate(360deg);
   }
 }
+.contact-img img {
+  width: 70%;
+  height: 50%;
+}
 
 /*--------------------------------------------------------------
 # Breadcrumbs
